@@ -1,4 +1,4 @@
-Contains the following:
+Files contain the following:
 
 Raw TDR data for a single individual + R file showing how these dive data are processed 
 
